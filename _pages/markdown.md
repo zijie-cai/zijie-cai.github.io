@@ -1,7 +1,10 @@
 ---
-layout: page
-title: "Paper of the Week"
 permalink: /markdown/
+title: "Markdown"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /markdown.html
 ---
 
 ## Research Paper of the Week: [Week #]
