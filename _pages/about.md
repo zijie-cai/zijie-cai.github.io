@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my personal website! Here, you'll find information about my work, projects, and research interests.
+Welcome to my personal website! 
 
 About Me
 ======
