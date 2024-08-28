@@ -13,19 +13,3 @@ About Me
 ======
 []
 
-Projects
-======
-[]
-
-Publications
-======
-[]
-
-Teaching
-======
-[]
-
-Contact
-======
-[]
-
