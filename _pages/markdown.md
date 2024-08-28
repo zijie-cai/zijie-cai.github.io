@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Paper of the Week"
-permalink: /Paper of the week/
+permalink: /markdown/
 ---
 
 ## Research Paper of the Week: [Week #]
