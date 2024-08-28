@@ -1,6 +1,6 @@
 ---
 permalink: /markdown/
-title: "Markdown"
+title: "Paper of the Week"
 author_profile: true
 redirect_from: 
   - /md/
